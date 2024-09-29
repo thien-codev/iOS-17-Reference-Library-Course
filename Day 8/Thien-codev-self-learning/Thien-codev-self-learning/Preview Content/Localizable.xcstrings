@@ -1,0 +1,159 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%lld" : {
+      "localizations" : {
+        "vi" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Button" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nút"
+          }
+        }
+      }
+    },
+    "Enable" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kích hoạt"
+          }
+        }
+      }
+    },
+    "Hello, world!" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chào, thế giới"
+          }
+        }
+      }
+    },
+    "Increase" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tăng"
+          }
+        }
+      }
+    },
+    "Look around" : {
+
+    },
+    "My house" : {
+
+    },
+    "Open Link" : {
+
+    },
+    "Open URL" : {
+
+    },
+    "Setting" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Góc nhìn 1"
+          }
+        }
+      }
+    },
+    "Start processing" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bắt đầu "
+          }
+        }
+      }
+    },
+    "Title" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiêu đề"
+          }
+        }
+      }
+    },
+    "Value: %lld" : {
+      "localizations" : {
+        "vi" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Value: %lld"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Value: %lld"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "View 1" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Góc nhìn 1"
+          }
+        }
+      }
+    },
+    "View 2" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Góc nhìn 2"
+          }
+        }
+      }
+    },
+    "View 3" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Góc nhìn 3"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
